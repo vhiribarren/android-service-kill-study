@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.alea.tuto.service_kill.notsticky">
+
+    <application
+        android:name="net.alea.tuto.service_kill.notsticky.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name">
+
+        <activity android:name="net.alea.tuto.service_kill.notsticky.MyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="net.alea.tuto.service_kill.notsticky.MyService"/>
+
+    </application>
+
+</manifest>

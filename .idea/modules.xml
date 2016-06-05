@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-foreground/app-foreground.iml" filepath="$PROJECT_DIR$/app-foreground/app-foreground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-notsticky/app-notsticky.iml" filepath="$PROJECT_DIR$/app-notsticky/app-notsticky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-sticky/app-sticky.iml" filepath="$PROJECT_DIR$/app-sticky/app-sticky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuto-android-service-kill.iml" filepath="$PROJECT_DIR$/tuto-android-service-kill.iml" />
+    </modules>
+  </component>
+</project>
